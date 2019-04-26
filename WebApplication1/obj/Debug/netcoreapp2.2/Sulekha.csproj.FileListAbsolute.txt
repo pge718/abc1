@@ -1,0 +1,14 @@
+D:\Sulekha\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sulekha.csproj.CoreCompileInputs.cache
+D:\Sulekha\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sulekha.RazorAssemblyInfo.cache
+D:\Sulekha\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sulekha.RazorAssemblyInfo.cs
+D:\Sulekha\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sulekha.AssemblyInfoInputs.cache
+D:\Sulekha\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sulekha.AssemblyInfo.cs
+D:\Sulekha\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\Sulekha.deps.json
+D:\Sulekha\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\Sulekha.runtimeconfig.json
+D:\Sulekha\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\Sulekha.runtimeconfig.dev.json
+D:\Sulekha\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\Sulekha.dll
+D:\Sulekha\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\Sulekha.pdb
+D:\Sulekha\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sulekha.RazorTargetAssemblyInfo.cache
+D:\Sulekha\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sulekha.dll
+D:\Sulekha\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sulekha.pdb
+D:\Sulekha\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sulekha.csprojAssemblyReference.cache

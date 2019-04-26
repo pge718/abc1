@@ -1,0 +1,17 @@
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\bin\Debug\netcoreapp2.2\SulekhaUnitTesting.deps.json
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\bin\Debug\netcoreapp2.2\SulekhaUnitTesting.runtimeconfig.json
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\bin\Debug\netcoreapp2.2\SulekhaUnitTesting.runtimeconfig.dev.json
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\bin\Debug\netcoreapp2.2\SulekhaUnitTesting.dll
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\bin\Debug\netcoreapp2.2\SulekhaUnitTesting.pdb
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\bin\Debug\netcoreapp2.2\Sulekha.dll
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\bin\Debug\netcoreapp2.2\Sulekha.pdb
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\obj\Debug\netcoreapp2.2\SulekhaUnitTesting.csprojAssemblyReference.cache
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\obj\Debug\netcoreapp2.2\SulekhaUnitTesting.csproj.CoreCompileInputs.cache
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\obj\Debug\netcoreapp2.2\SulekhaUnitTesting.AssemblyInfoInputs.cache
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\obj\Debug\netcoreapp2.2\SulekhaUnitTesting.AssemblyInfo.cs
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\obj\Debug\netcoreapp2.2\SulekhaUnitTesting.csproj.CopyComplete
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\obj\Debug\netcoreapp2.2\SulekhaUnitTesting.dll
+D:\Sulekha\WebApplication1\SulekhaUnitTesting\obj\Debug\netcoreapp2.2\SulekhaUnitTesting.pdb
